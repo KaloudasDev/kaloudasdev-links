@@ -28,9 +28,9 @@ jobs:
           cache: 'npm'
       
       - name: Install dependencies
-        run: npm ci
+        run: npm install  # Αλλαγή από npm ci σε npm install
       
-      - name: Build and Export
+      - name: Build
         run: npm run build
         
       - name: Add .nojekyll
