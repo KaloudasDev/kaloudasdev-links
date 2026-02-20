@@ -26,19 +26,9 @@
     "typescript": "5.7.3"
   },
   "overrides": {
-    "next": "14.2.25",
-    "glob": "11.1.0",
-    "micromatch": "4.0.8",
-    "braces": "3.0.3",
-    "nanoid": "5.0.9",
-    "semver": "7.6.3"
+    "glob": "11.1.0"
   },
   "resolutions": {
-    "next": "14.2.25",
-    "glob": "11.1.0",
-    "micromatch": "4.0.8",
-    "braces": "3.0.3",
-    "nanoid": "5.0.9",
-    "semver": "7.6.3"
+    "glob": "11.1.0"
   }
 }
