@@ -46,11 +46,11 @@ npm run dev
 linkhub-website/
 ├── app/
 │   ├── components/
-│   │   ├── Footer.js        # Footer component with social links
-│   │   └── Navbar.js         # Navigation bar component
-│   ├── globals.css           # Global styles with dark theme
-│   ├── layout.js             # Root layout with metadata
-│   └── page.js               # Main page with Discord integration
+│   │   ├── Footer.js          # Footer component with social links
+│   │   └── Navbar.js          # Navigation bar component
+│   ├── globals.css            # Global styles with dark theme
+│   ├── layout.js              # Root layout with metadata
+│   └── page.js                # Main page with Discord integration
 ├── .gitignore                 # Git ignore configuration
 ├── CHANGELOG.md               # Version history
 ├── CODE_OF_CONDUCT.md         # Community guidelines
