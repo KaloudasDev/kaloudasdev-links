@@ -1,14 +1,14 @@
-## KaloudasDev LinkHub
+## KaloudasDev Links
 
-A modern, minimalist link hub website showcasing development work and social connections with real-time Discord integration. Built with Next.js 14 for optimal performance, user experience, and seamless deployment workflows.
+A modern, minimalist link hub website showcasing development work and social connections with real-time Discord integration. Built with Next.js 15 for optimal performance, user experience, and seamless deployment workflows.
 
 ## Features
 
 - **Real-time Discord Status** - Live presence tracking with Spotify and game activity
 - **Modern Dark Theme** - Professional gradient orbs with glass morphism effects
 - **Fully Responsive** - Optimized for desktop, tablet, and mobile devices
-- **Fast Performance** - Next.js 14 with optimized builds and image optimization
-- **Security Enhanced** - Comprehensive security policies and best practices
+- **Fast Performance** - Next.js 15 with optimized builds and image optimization
+- **Security Enhanced** - Comprehensive security policies and best practices (0 vulnerabilities)
 - **Cross-Browser Compatible** - Works seamlessly across all modern browsers
 - **Professional Layout** - Clean organization of social and portfolio links
 
@@ -32,7 +32,7 @@ npm run dev
 
 | Component | Technology |
 |-----------|------------|
-| Framework | Next.js 14 |
+| Framework | Next.js 15 |
 | Language | JavaScript (ES6+) |
 | Styling | CSS3 with CSS Variables |
 | Icons | Font Awesome 6 |
