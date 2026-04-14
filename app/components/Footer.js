@@ -5,7 +5,7 @@ export default function Footer() {
     <div className="footer">
       <div>© 2026 KaloudasDev · All rights reserved.</div>
       <div className="footer-links">
-        <a href="https://github.com/KaloudasDev" target="_blank" rel="noopener">
+        <a href="https://github.com/KaloudasDev" target="_blank" rel="noopener noreferrer">
           <i className="fab fa-github"></i> GitHub
         </a>
         <a href="https://discord.com/users/1069279857072160921" target="_blank" rel="noopener">

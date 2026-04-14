@@ -7,6 +7,25 @@ export default [
   js.configs.recommended,
   {
     files: ["**/*.{js,jsx,ts,tsx}"],
+    languageOptions: {
+      ecmaVersion: 2022,
+      sourceType: "module",
+      parserOptions: {
+        ecmaFeatures: {
+          jsx: true,
+        },
+      },
+      globals: {
+        process: "readonly",
+        console: "readonly",
+        module: "readonly",
+        document: "readonly",
+        window: "readonly",
+        fetch: "readonly",
+        setInterval: "readonly",
+        clearInterval: "readonly",
+      },
+    },
     plugins: {
       react: reactPlugin,
       "react-hooks": reactHooksPlugin,
@@ -27,6 +46,6 @@ export default [
     },
   },
   {
-    ignores: [".next/**", "out/**", "build/**", "next-env.d.ts"],
+    ignores: [".next/**", "out/**", "build/**", "next-env.d.ts", "node_modules/**"],
   },
 ];
