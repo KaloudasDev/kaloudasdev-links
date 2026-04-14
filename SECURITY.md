@@ -24,7 +24,7 @@ Please include:
 - Potential impact
 - Suggested fix (if any)
 
-### ⏱Response Timeline
+### Response Timeline
 
 - **24-48 hours**: Initial acknowledgment of your report
 - **5-7 days**: Investigation and validation
